@@ -17,4 +17,7 @@ Assets used:
 - Meshtint Free Chicken Mega Toon Series
 - Low Poly Fence Pack
 - Stylized Grass Texture
-- 
+
+Unity version: 2019.3.2f1
+Made for HTC Vive
+Student ID: A0182447Y
