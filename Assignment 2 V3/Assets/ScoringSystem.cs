@@ -11,6 +11,6 @@ public class ScoringSystem : MonoBehaviour
     public void UpdateScore(int i)
     {
         score += i;
-        scoreText.GetComponent<Text>().text = "SCORE: " + score;
+        scoreText.GetComponent<Text>().text = " : " + score;
     }
 }
